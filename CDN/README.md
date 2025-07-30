@@ -1,1 +1,1 @@
-
+A CDN stores cached versions of your website’s content in multiple locations (called Points of Presence or PoPs) around the world. When a user accesses your website, the CDN delivers content from the nearest server, reducing latency and improving load times.
